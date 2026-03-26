@@ -7,7 +7,7 @@ Analyse distribution of businesses across industries (NAICS codes).
 Study trends in permit status 9Active vs Cancelled).
 Identify growth patterns over time.
 Explore geographic distribution of businesses.
-Datect relationships between variables using statistical and visual methods
+Datect relationships between variables using statistical and visual methods.
 Tools & Techniques:
 Python
 Pandas
