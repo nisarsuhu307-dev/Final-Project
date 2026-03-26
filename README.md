@@ -15,4 +15,4 @@ Numpy
 Matplotlib
 Seaborn
 Plotly( for interactive visualisation)
-Jupyter Notebook
+Jupyter Notebook.
